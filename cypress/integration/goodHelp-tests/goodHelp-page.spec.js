@@ -4,4 +4,4 @@ describe('GoodHelp testando UI'), () => {
         cy.visit('/')
 
     });
-}
+};
